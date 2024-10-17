@@ -1,4 +1,4 @@
-# Coffe-Shop-Sales
+# Coffee-Shop-Sales
 
 ## Objective
 The main objective of this dashboard is to analyze the coffee shop’s sales data, footfall, product preferences, and customer behavior to identify key patterns, trends, and insights. This helps in making data-driven decisions to improve profitability, customer engagement, and optimize operations.
